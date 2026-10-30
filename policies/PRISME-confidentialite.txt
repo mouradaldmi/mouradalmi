@@ -1,0 +1,50 @@
+Confidentialité de PRISME — Idées et actions
+
+Version préparée le 30 octobre 2026 pour PRISME Windows 0.4.0. Éditeur : Mouralmi.
+
+
+PRISME vous permet d’organiser vos idées, notes, projets et actions sur votre ordinateur. Le logiciel n’exige pas de compte PRISME et n’envoie pas le contenu de vos tableaux à l’éditeur.
+
+
+Les informations que vous saisissez
+
+Les titres, notes, échéances, liens entre cartes, noms de tableaux, brouillons et sessions de concentration sont traités localement. Le classement et les suggestions utilisent des règles et des mots communs. Aucun service d’intelligence artificielle distant n’est appelé pour analyser vos textes.
+
+
+Où restent vos données
+
+Les tableaux et préférences sont conservés dans le profil local dédié de PRISME, dans les données de votre compte Windows. Une copie JSON des tableaux et une version précédente sont également conservées dans le dossier de données de l’application. Ces copies ne sont pas une sauvegarde sur un autre appareil.
+
+Le logiciel ne chiffre pas lui-même les tableaux ni les fichiers JSON. Les personnes ayant accès à votre compte Windows ou aux fichiers exportés peuvent donc accéder à leur contenu. Les paramètres de sécurité et de chiffrement de votre ordinateur restent applicables.
+
+
+Imports et exports
+
+Vous choisissez les fichiers texte, Markdown et JSON à importer. Leur contenu est lu localement pour ajouter des cartes ou des tableaux. Vous choisissez aussi où conserver les copies exportées. Si vous choisissez un dossier synchronisé par OneDrive ou un autre service, ce service peut synchroniser les fichiers selon vos réglages, indépendamment de PRISME.
+
+
+Réseau et composants Microsoft
+
+PRISME ne contient ni publicité, ni outil de suivi publicitaire, ni télémétrie propre à l’éditeur. Les requêtes de contenu externe de son interface sont bloquées par la fenêtre Windows. Le Microsoft Store, Windows et Microsoft Edge WebView2 Runtime peuvent toutefois effectuer leurs propres opérations d’installation, de mise à jour ou de diagnostic selon leurs paramètres et les règles de Microsoft. Ces opérations sont distinctes du traitement local de vos tableaux.
+
+Vous pouvez consulter la déclaration de confidentialité de Microsoft (https://privacy.microsoft.com/fr-fr/privacystatement).
+
+
+Conservation et suppression
+
+Vos données restent sur ce PC jusqu’à leur suppression. Vous pouvez supprimer des cartes ou tableaux dans l’application. Les copies de récupération peuvent conserver une version antérieure ; supprimer une carte ne supprime donc pas immédiatement toutes ses copies.
+
+Pour effacer toutes les données locales, exportez d’abord ce que vous souhaitez conserver, fermez PRISME, puis réinitialisez ou désinstallez l’application via les paramètres Windows et supprimez les éventuelles copies résiduelles dans son dossier de données. Supprimez séparément les fichiers JSON exportés et leurs copies synchronisées ou sauvegardées. Les données du Microsoft Store restent gérées par Microsoft.
+
+
+Contacter l’éditeur
+
+Éditeur : Mouralmi
+Assistance et questions de confidentialité : contact@moura-web.tech
+
+Si vous nous écrivez ou joignez volontairement un fichier à une demande d’assistance, les informations transmises passent par votre service de messagerie et celui de l’éditeur. Évitez d’envoyer des données sensibles inutiles.
+
+
+Évolution de cette politique
+
+Cette page sera mise à jour si le fonctionnement du logiciel change. La date ci-dessus permet d’identifier la version du texte.
